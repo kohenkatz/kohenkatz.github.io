@@ -1,6 +1,6 @@
 # Moshe Katz
 
-> ##The Stack Overflow Song
+> ### The Stack Overflow Song
 >
 > 99 little bugs in the code,  
 > 99 little bugs;  
@@ -8,6 +8,7 @@
 > 117 little bugs in the code  
 >
 > - Author Unknown
+
 ## About
 
 This repository hosts the HTML, CSS, images, and posts for [moshe.ymkatz.net](http://moshe.ymkatz.net).
